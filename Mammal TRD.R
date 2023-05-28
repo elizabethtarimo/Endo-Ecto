@@ -1,3 +1,4 @@
+getwd()
 setwd("~/Desktop/Current Research/Endo&EctoFile")
 
 library(dplyr)
